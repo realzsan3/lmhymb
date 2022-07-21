@@ -15,10 +15,18 @@
 ### 在线演示
 -----
 
-[http://bing.jsfinder.cn/](http://bing.jsfinder.cn/)
+[让我帮你Bing一下](https://lmhymb.zsan.ml/)
 
 
 ### 相关项目
 -----
 
 - Let Me Baidu That For You https://github.com/mengkunsoft/lmbtfy
+- [必应版] Ask and it is given https://github.com/MisterBoole/lmbtfy
+
+### 更新日志
+-----
+
+#### 2022/7/21
+- 替换源码下载为自己仓库地址
+- 更换最新bing icon
